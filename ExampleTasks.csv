@@ -1,0 +1,6 @@
+STORE,PAYMENT,PRODUCT,FIRST NAME,LAST NAME,EMAIL,PHONE NUMBER,ADDRESS LINE 1,ADDRESS LINE 2,CITY,POSTCODE / ZIP,COUNTRY,CC NUMBER,CC MONTH,CC YEAR,CC CVV,PROXIE FILE
+LEGO,CC,URL/SKU,Senkton,Bot,mail@senkton-bot.com,RANDOM,Senkton Street 11,House 2,Berlin,10115,DE,4787581788802866,12,2026,123,Proxiefile
+LEGO,CC,URL/SKU,Senkton,Bot,mail@senkton-bot.com,RANDOM,XXX Senkton Street 22,,Berlin,10115,DE,4787581788802866,12,2026,123,Proxiefile
+TOPPS,PP,URL/SKU,Senkton,Bot,mail@senkton-bot.com,RANDOM,Senkton Street 21,House 33,Berlin,10115,DE,,,,,Proxiefile
+LEGO,PP,URL/SKU,Senkton,Bot,mail@senkton-bot.com,RANDOM,XXX Senkton Street 32,,Berlin,10115,DE,,,,,Proxiefile
+TOPPS,CC,URL/SKU,Senkton,Bot,mail@senkton-bot.com,RANDOM,Senkton Street 11,Hose 245,Berlin,10115,DE,4787581788802866,12,2026,123,Proxiefile
